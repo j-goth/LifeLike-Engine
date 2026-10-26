@@ -3,7 +3,7 @@ Lifelike Engine is a software that can simulate various biological components an
 I developed it as my Matura Thesis in the last two years of high school and apart from `third_party` everything was written by me or taken from a tutorial.<br>
 
 # Important information and updates
-- The program is designed to be managed over terminal commands. This is currently the only way to close it once it's running. Thus executing the program should exclusively be done through the terminal. Otherwise it can happen that the window remains open and is only closable with a kille/force-close command which will loose the current simulation state.
+- Some elements of the program, like saving and closing, are designed to be controlled over terminal commands. Thus executing the program should exclusively be done through the terminal. Otherwise it can happen that the window remains open and is only closable with a kill/force-close command which will loose the current simulation state.
 - As of October 26, 2026 the [release](https://github.com/j-goth/LifeLike-Engine/releases) binaries should work on most Windows 11 and Linux systems with only the Vulkan SDK and Vulkan drivers installed.
 - On Linux, if the program fails with the error message that SDL couldn't be initialized, [this](https://wiki.libsdl.org/SDL3/README-linux) might fix it.
 
