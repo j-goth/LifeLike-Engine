@@ -53,7 +53,7 @@ inline void consoleIO() {
             << "  SCROLL - zoom in or out of the simulation\n"
             << "  MIDDLEMOUSE - move the simulation area while pressed\n"
             << "  ARROWKEYS - move the simulation area\n"
-            << "  R - return to the imulation area"
+            << "  R - return to the imulation area\n"
             << "  I - insert mode to place compounds\n"
             << "  P - push mode to push compounds with the mouse cursor\n"
             << "  O - destroy mode to destroy/delete compounds with the mouse cursor\n"
