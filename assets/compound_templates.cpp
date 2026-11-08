@@ -136,7 +136,7 @@ std::unordered_map<std::string, Compound> compounds_templates {
             {{5.0, 0.0}, 0.25, WHITE, false},
         },
         {},
-        {"rna-p1", "rna-p2", "rna-p3"},
+        {"sample-rna-p1", "sample-rna-p2", "sample-rna-p3"},
         (CompoundType::PHOSPHOLIPID),
         }
     },
@@ -158,7 +158,7 @@ std::unordered_map<std::string, Compound> compounds_templates {
             {{5.0, 0.0}, 0.25, MAGENTA, false},
         },
         {},
-        {"protein-1-transcription"},
+        {"sample-protein-1-transcription"},
         (CompoundType::PHOSPHOLIPID),
         1.0,
         }
@@ -181,7 +181,7 @@ std::unordered_map<std::string, Compound> compounds_templates {
             {{5.0, 0.0}, 0.25, YELLOW, false},
         },
         {},
-        {"protein-2-translation"},
+        {"sample-protein-2-translation"},
         (CompoundType::PHOSPHOLIPID),
         }
     },
@@ -203,7 +203,7 @@ std::unordered_map<std::string, Compound> compounds_templates {
             {{5.0, 0.0}, 0.25, CYAN, false},
         },
         {},
-        {"protein-3-dna-repl"},
+        {"sample-protein-3-dna-repl"},
         (CompoundType::PHOSPHOLIPID),
         }
     },
